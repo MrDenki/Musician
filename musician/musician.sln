@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "view", "musician\view.csproj", "{79829AEB-1AE8-4510-8D47-BD3C3861A717}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "model", "model\model.csproj", "{D35E9618-72E1-41C6-9A9D-0DBEB5D7A2ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controller", "controller\controller.csproj", "{1229AD06-19FD-4002-A2AE-1673BE9FF202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79829AEB-1AE8-4510-8D47-BD3C3861A717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79829AEB-1AE8-4510-8D47-BD3C3861A717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79829AEB-1AE8-4510-8D47-BD3C3861A717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79829AEB-1AE8-4510-8D47-BD3C3861A717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35E9618-72E1-41C6-9A9D-0DBEB5D7A2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35E9618-72E1-41C6-9A9D-0DBEB5D7A2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35E9618-72E1-41C6-9A9D-0DBEB5D7A2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35E9618-72E1-41C6-9A9D-0DBEB5D7A2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1229AD06-19FD-4002-A2AE-1673BE9FF202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1229AD06-19FD-4002-A2AE-1673BE9FF202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1229AD06-19FD-4002-A2AE-1673BE9FF202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1229AD06-19FD-4002-A2AE-1673BE9FF202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39C3AEFD-6AF8-41FE-8049-DC44A6DC64A9}
+	EndGlobalSection
+EndGlobal

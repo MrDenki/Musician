@@ -1,0 +1,13 @@
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\bin\Debug\netcoreapp3.1\controller.deps.json
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\bin\Debug\netcoreapp3.1\controller.dll
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\bin\Debug\netcoreapp3.1\controller.pdb
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\bin\Debug\netcoreapp3.1\model.dll
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\bin\Debug\netcoreapp3.1\model.pdb
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\obj\Debug\netcoreapp3.1\controller.csproj.AssemblyReference.cache
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\obj\Debug\netcoreapp3.1\controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\obj\Debug\netcoreapp3.1\controller.AssemblyInfoInputs.cache
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\obj\Debug\netcoreapp3.1\controller.AssemblyInfo.cs
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\obj\Debug\netcoreapp3.1\controller.csproj.CoreCompileInputs.cache
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\obj\Debug\netcoreapp3.1\controller.csproj.CopyComplete
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\obj\Debug\netcoreapp3.1\controller.dll
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\controller\obj\Debug\netcoreapp3.1\controller.pdb

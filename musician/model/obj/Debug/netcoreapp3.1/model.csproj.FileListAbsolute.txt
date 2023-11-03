@@ -1,0 +1,10 @@
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\model\bin\Debug\netcoreapp3.1\model.deps.json
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\model\bin\Debug\netcoreapp3.1\model.dll
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\model\bin\Debug\netcoreapp3.1\model.pdb
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\model\obj\Debug\netcoreapp3.1\model.csproj.AssemblyReference.cache
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\model\obj\Debug\netcoreapp3.1\model.GeneratedMSBuildEditorConfig.editorconfig
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\model\obj\Debug\netcoreapp3.1\model.AssemblyInfoInputs.cache
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\model\obj\Debug\netcoreapp3.1\model.AssemblyInfo.cs
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\model\obj\Debug\netcoreapp3.1\model.csproj.CoreCompileInputs.cache
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\model\obj\Debug\netcoreapp3.1\model.dll
+D:\KIrill\Study\ITMO\SCharp\lab1\musician\model\obj\Debug\netcoreapp3.1\model.pdb
