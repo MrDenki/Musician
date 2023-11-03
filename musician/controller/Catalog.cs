@@ -79,7 +79,6 @@ namespace controller
                         {
                             Console.WriteLine($"\t\t\t\t\t\t\t{song.Title}");
                         }
-                        //Console.Write($"{song.Title}\n");
                     }
                 }
             }
@@ -92,12 +91,6 @@ namespace controller
             return Artists[n - 1];
         }
 
-        //public List<Artist> FindArtistsByGenre(Genre genre)
-        //{
-        //    return Artists.FindAll(artist => artist.Genre == genre);
-        //}
-
-
         // Album
 
         public void AddAlbum(string name, Artist atrist, List<Song> songs)
@@ -106,12 +99,6 @@ namespace controller
             Albums.Add(album);
             atrist.Albums.Add(album);
         }
-
-        //public void AddCompilations(string title, List<Song> songs)
-        //{
-        //    Compilation compilation = new Compilation(title, songs);
-        //    Compilations.Add(compilation);  
-        //}
 
         public void PrintAlbums()
         {
